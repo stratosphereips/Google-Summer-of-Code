@@ -4,7 +4,7 @@ Repository with data and documents for Google Summer of Code 2023
 # Stratosphere Laboratory
 Our group conducts research at the intersection of machine learning, cybersecurity and helping others. We are part of the Artificial Intelligence Center, Faculty of Electrical Engineering, Czech Technical University in Prague.
 
-# Projects Purposal
+# Projects Proposal
 *  [Stratosphere Linux IPS (Medium)]()
 *  [Project 2 (Easy)]()
 *  [Project 3 (Hard)]()
