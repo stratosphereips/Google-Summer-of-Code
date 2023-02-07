@@ -1,5 +1,5 @@
-# Google-Summer-of-Code-2023
-Repository with data and documents for Google Summer of Code 2023
+# Google Summer of Code 2023
+Repository with data and documents for Google Summer of Code 2023 for the Stratosphere Laboratory
 
 # Stratosphere Laboratory
 Our group conducts research at the intersection of machine learning, cybersecurity and helping others. We are part of the Artificial Intelligence Center, Faculty of Electrical Engineering, Czech Technical University in Prague.
