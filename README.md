@@ -1,31 +1,62 @@
 # Google Summer of Code 2023
-Repository with data and documents for Google Summer of Code 2023 for the Stratosphere Laboratory
+Repository with data and documents for Google Summer of Code 2023 proposal for the Stratosphere Laboratory
 
-# Stratosphere Laboratory
+# About the Stratosphere Laboratory
 Our group conducts research at the intersection of machine learning, cybersecurity and helping others. We are part of the Artificial Intelligence Center, Faculty of Electrical Engineering, Czech Technical University in Prague.
 
-# Projects Proposal
+--What is the GSoC and links--
+
+-- About that you should get in contact in Discord and discuss new possible ideas. The ideas we put here are an indication only --
+
+
+# Links to Projects Proposal Ideas
 *  [Stratosphere Linux IPS (Medium)]()
 *  [Project 2 (Easy)]()
 *  [Project 3 (Hard)]()
 *  [Project 3]()
 
 
-# Stratosphere Linux IPS
+# Project Slips
+
+## Description of Slips
 Slips is a behavioral intrusion prevention system that uses machine learning to detect malicious behaviors in network traffic. Slips focus on targeted attacks, detection of command and control channels, and providing a good visualization for the analyst. It can analyze network traffic in real-time, network captures such as pcap files, and network flows produced by Suricata, Zeek/Bro, and Argus. Slips processes the input data, analyzes it, and highlights suspicious behavior that needs the analyst's attention.
 
-***Note*** We are targetting students/experieced developers?
+## Idea 1: Improvement of Web
+### Project Link: https://github.com/stratosphereips/StratosphereLinuxIPS
 
-Project Link:
-
-### Expected size of project 
-175 or 350 hours
+### Expected size
+175 (4hs per day for 12 weeks) 
 
 ### Expected length of project 
 10-22 weeks
 
 ###  Difficulty
 Medium
+
+### Proposed lists of topics that could be included:
+- Better display of timewindow numbers,  start time, and end time
+- Show a list of Blocked Profiles in one place
+- Show the history of threat levels and confidence of each profile
+- If an IPv4 profile has an available IPv6 we should show it. and vice versa
+- Show the current threat level of each profile 
+- Show the user agent of each profile 
+- Show the MAC of each profile
+- Live (Asynchronous) updating of the web view. (meaning that without refreshing the page, new info should be displayed)
+- Show slips logo somewhere
+
+
+
+
+## Idea 2: Better Intallation
+
+## Idea 3: Improving Performance
+
+# Project Attacker IP Threat Intelligence Framework (AIP)
+
+## Idea 1: 
+
+
+
 
 ### Expected outcomes 
 
