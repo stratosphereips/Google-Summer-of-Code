@@ -10,7 +10,7 @@ The [Google Summer of Code](https://summerofcode.withgoogle.com/) is a global, o
 
 
 # Projects to contribute to:
-* Stratosphere Linux IPS (Slips)
+* Slips (Stratosphere Linux IPS)
 * Attacker IP Threat Intelligence Framework (AIP)
 
 
