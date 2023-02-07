@@ -95,8 +95,11 @@ Slips wants to do many detections in your network, but that requires CPU, memory
 # Attacker IP Threat Intelligence Framework (AIP)
 
 ### Description of AIP
+AIP is our framework to design, create and evaluate Threat Intelligence list for the community. The current most used security protection mechanism in our security community are threat intelligence feeds, but there is no clear understanding of which ones are best, why they are best, which ones do not work and how to evaluate them. More important, there was no framework to create new models that output TI feeds.
 
-### Project Link:  https://github.com/stratosphereips/AIP-Blacklist-Algorithm
+AIP is a framework that helps solve all these problems. It allow you to create new TI models and to evaluate and publish them.
+
+### Project Link: https://github.com/stratosphereips/AIP-Blacklist-Algorithm
 
 ### Expected size
 175 (4hs per day for 12 weeks) 
@@ -107,37 +110,26 @@ Slips wants to do many detections in your network, but that requires CPU, memory
 ### Difficulty
 Medium
 
-### Idea 1:
+### Idea 1: Online dashboard
 
-#### Proposed lists of topics that could be included:
+This idea is to create a web interface that can show and manage all the information about the TI feeds and the models. It is to show the comparison of which models are best, how the list of IPs are being blocked and which is the performance of the different feeds.
 
-**Mentor**: [name](https://github.com/)
+**Mentor**: [Joaquin Bogado](https://github.com/jwackito/)
 
-**Current status**: 
+**Current status**: Beta Testing
 
-**Technology**: python, ...
-
-
-### Idea 2:
-
-#### Proposed lists of topics that could be included:
-
-**Mentor**: [name](https://github.com/)
-
-**Current status**: 
-
-**Technology**: python, ...
+**Technology**: python
 
 
-### Idea 3:
+### Idea 2: Continuous Deployment
 
-#### Proposed lists of topics that could be included:
+This idea is to have the AIP framework being continually integrated to the network and honeypots and to produce results and information about the different TI feeds downloaded. It is not about how to show the information, but how to produce it.
 
-**Mentor**: [name](https://github.com/)
+**Mentor**: [Joaquin Bogado](https://github.com/jwackito/)
 
-**Current status**: 
+**Current status**: Beta Testing
 
-**Technology**: python, ...
+**Technology**: python
 
 --- 
 
