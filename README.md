@@ -36,21 +36,12 @@ Medium
 ### Idea 1: Improvement of Slips web interface
 
 #### Proposed lists of topics that could be included:
-- Better display of timewindow numbers,  start time, and end time
-- Show a list of Blocked Profiles in one place
-- Show the history of threat levels and confidence of each profile
-- If an IPv4 profile has an available IPv6 we should show it. and vice versa
-- Show the current threat level of each profile 
-- Show the user agent of each profile 
-- Show the MAC of each profile
-- Live (Asynchronous) updating of the web view. (meaning that without refreshing the page, new info should be displayed)
-- Show Slips logo somewhere
-- Show Progress bar 
-- Show list of loaded modules and disabled modules
-- Show current model status (are we in training or testing mode?)
-- Show the current gateway’s IP and MAC, and mark the gateway profile as ‘Gateway’
-- Have a whitelist tab to show what IPs/domains/orgs are currently whitelisted
-- Manage the configuration of slips from the web
+
+- Showing all the info we have on each profile.
+- Manage the configuration of slips from the web.
+- Fix a few bugs.
+ 
+[Detailed Tasks]()
 
 **Mentor**: [Sebastian Garcia](https://github.com/eldraco)
 
@@ -65,12 +56,10 @@ Medium
 
 #### Proposed lists of topics that could be included:
 
-- An easy way to install slips, Any of the following:
-  - using apt
-  - snap
-  - dpkg
-  
-- Bonus: brew installation of slips (if the student has a macOS)  
+- An easy way to install slips
+- Bonus: brew installation of slips
+
+[Detailed Tasks]()
 
 **Mentor**: [Alya Gomaa](https://github.com/AlyaGomaa)
 
@@ -79,18 +68,18 @@ Medium
 **Technology**: python, package management, brew
 
 
-
 ### Idea 3: Improving Performance
 
 
 #### Proposed lists of topics that could be included:
 
 
-- CPU Profiling; Using python profilers: for example profile and cProfile modules or others
-- Memory Profiling; Using memray, Memory Profiler module or others that may do
+- CPU Profiling
+- Memory Profiling
 - Provide statistics and graphs about which parts or modules of slips need optimizations
-- Provide optimization ideas; what can be done differently? Why and How?
+- Provide optimization ideas
 
+[Detailed Tasks]()
 
 **Mentor**: [Alya Gomaa](https://github.com/AlyaGomaa)
 
@@ -105,7 +94,7 @@ Medium
 
 ### Description of AIP
 
-### Project Link: 
+### Project Link:  https://github.com/stratosphereips/AIP-Blacklist-Algorithm
 
 ### Expected size
 175 (4hs per day for 12 weeks) 
