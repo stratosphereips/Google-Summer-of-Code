@@ -34,7 +34,7 @@
   
 - Bonus: brew installation of slips (if the student has a macOS)  
 
-## Improving Performance
+## Improve Performance
 
 - CPU Profiling; Using python profilers: for example profile and cProfile modules or others
 - Memory Profiling; Using memray, Memory Profiler module or others that may do

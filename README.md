@@ -22,7 +22,8 @@ Our group conducts research at the intersection of machine learning, cybersecuri
 Slips is a behavioral intrusion prevention system that uses machine learning to detect malicious behaviors in network traffic. Slips focus on targeted attacks, detection of command and control channels, and providing a good visualization for the analyst. It can analyze network traffic in real-time, network captures such as pcap files, and network flows produced by Suricata, Zeek/Bro, and Argus. Slips processes the input data, analyzes it, and highlights suspicious behavior that needs the analyst's attention.
 
 
-### Project Link: https://github.com/stratosphereips/StratosphereLinuxIPS
+### Project Link: 
+https://github.com/stratosphereips/StratosphereLinuxIPS
 
 ### Expected size
 175 (4hs per day for 12 weeks) 
@@ -41,7 +42,7 @@ Medium
 - Manage the configuration of slips from the web.
 - Fix a few bugs.
  
-[Detailed Tasks]()
+**Detailed tasks**: https://github.com/stratosphereips/Google-Summer-of-Code-2023/blob/main/Ideas.md#improvement-of-slips-web-interface
 
 **Mentor**: [Sebastian Garcia](https://github.com/eldraco)
 
@@ -59,7 +60,7 @@ Medium
 - An easy way to install slips
 - Bonus: brew installation of slips
 
-[Detailed Tasks]()
+**Detailed tasks**: https://github.com/stratosphereips/Google-Summer-of-Code-2023/blob/main/Ideas.md#better-installation
 
 **Mentor**: [Alya Gomaa](https://github.com/AlyaGomaa)
 
@@ -79,7 +80,7 @@ Medium
 - Provide statistics and graphs about which parts or modules of slips need optimizations
 - Provide optimization ideas
 
-[Detailed Tasks]()
+**Detailed tasks**: https://github.com/stratosphereips/Google-Summer-of-Code-2023/blob/main/Ideas.md#improve-performance
 
 **Mentor**: [Alya Gomaa](https://github.com/AlyaGomaa)
 
