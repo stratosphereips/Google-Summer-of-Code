@@ -10,18 +10,18 @@ Our group conducts research at the intersection of machine learning, cybersecuri
 
 
 # Links to Projects Proposal Ideas
-*  [Stratosphere Linux IPS (Medium)]()
-*  [Project 2 (Easy)]()
-*  [Project 3 (Hard)]()
+*  [Stratosphere Linux IPS (Slips)](https://github.com/stratosphereips/Google-Summer-of-Code-2023#stratosphere-linux-ips)
+*  [Attacker IP Threat Intelligence Framework (AIP)](https://github.com/stratosphereips/Google-Summer-of-Code-2023#project-attacker-ip-threat-intelligence-framework-aip)
+*  [Project 3]()
 *  [Project 3]()
 
 
-# Project Slips
+# Stratosphere Linux IPS
 
-## Description of Slips
+### Description of Slips
 Slips is a behavioral intrusion prevention system that uses machine learning to detect malicious behaviors in network traffic. Slips focus on targeted attacks, detection of command and control channels, and providing a good visualization for the analyst. It can analyze network traffic in real-time, network captures such as pcap files, and network flows produced by Suricata, Zeek/Bro, and Argus. Slips processes the input data, analyzes it, and highlights suspicious behavior that needs the analyst's attention.
 
-## Idea 1: Improvement of Web
+
 ### Project Link: https://github.com/stratosphereips/StratosphereLinuxIPS
 
 ### Expected size
@@ -30,12 +30,12 @@ Slips is a behavioral intrusion prevention system that uses machine learning to 
 ### Expected length of project 
 10-22 weeks
 
-###  Difficulty
+### Difficulty
 Medium
 
-## Idea 1: Improvement of Slips web interface
+### Idea 1: Improvement of Slips web interface
 
-### Proposed lists of topics that could be included:
+#### Proposed lists of topics that could be included:
 - Better display of timewindow numbers,  start time, and end time
 - Show a list of Blocked Profiles in one place
 - Show the history of threat levels and confidence of each profile
@@ -52,7 +52,7 @@ Medium
 - Have a whitelist tab to show what IPs/domains/orgs are currently whitelisted
 - Manage the configuration of slips from the web
 
-**Mentor**: [Sebastian Garcia]()
+**Mentor**: [Sebastian Garcia](https://github.com/eldraco)
 
 **Technology**: javascript, jquery, flask, python
 
@@ -61,9 +61,9 @@ Medium
 
 <img src="https://raw.githubusercontent.com/stratosphereips/Google-Summer-of-Code-2023/main/images/web_interface.png"  width="900" height="300">
 
-## Idea 2: Better Installation
+### Idea 2: Better Installation
 
-### Proposed lists of topics that could be included:
+#### Proposed lists of topics that could be included:
 
 - An easy way to install slips, Any of the following:
   - using apt
@@ -72,7 +72,7 @@ Medium
   
 - Bonus: brew installation of slips (if the student has a macOS)  
 
-**Mentor**: [Alya Gomaa]()
+**Mentor**: [Alya Gomaa](https://github.com/AlyaGomaa)
 
 **Current status**: Slips is working in docker, and can be installed locally using install.sh and conda/pip. 
 
@@ -80,10 +80,10 @@ Medium
 
 
 
-## Idea 3: Improving Performance
+### Idea 3: Improving Performance
 
 
-### Proposed lists of topics that could be included:
+#### Proposed lists of topics that could be included:
 
 
 - CPU Profiling; Using python profilers: for example profile and cProfile modules or others
@@ -92,18 +92,16 @@ Medium
 - Provide optimization ideas; what can be done differently? Why and How?
 
 
-**Mentor**: [Alya Gomaa]()
+**Mentor**: [Alya Gomaa](https://github.com/AlyaGomaa)
 
 **Current status**: basic previous work in this area
 
 **Technology**: python, profiling tools
 
 
-
-
 ---
 
-# Project Attacker IP Threat Intelligence Framework (AIP)
+# Attacker IP Threat Intelligence Framework (AIP)
 
 ## Idea 1: 
 
