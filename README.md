@@ -9,7 +9,7 @@ Our group conducts research at the intersection of machine learning, cybersecuri
 -- About that you should get in contact in Discord and discuss new possible ideas. The ideas we put here are an indication only --
 
 
-# Links to Projects Proposal Ideas
+# Projects Proposal Ideas
 *  [Stratosphere Linux IPS (Slips)](https://github.com/stratosphereips/Google-Summer-of-Code-2023#stratosphere-linux-ips)
 *  [Attacker IP Threat Intelligence Framework (AIP)](https://github.com/stratosphereips/Google-Summer-of-Code-2023#attacker-ip-threat-intelligence-framework-aip)
 *  [Project 3]()
@@ -103,32 +103,52 @@ Medium
 
 # Attacker IP Threat Intelligence Framework (AIP)
 
-## Idea 1: 
+### Description of AIP
 
+### Project Link: 
 
-
-
-***Note*** We are targetting students/experieced developers?
-Project Link:
-
-### Expected size of project 
-175 or 350 hours
+### Expected size
+175 (4hs per day for 12 weeks) 
 
 ### Expected length of project 
 10-22 weeks
 
-###  Difficulty
-Medium/Easy/Large
+### Difficulty
+Medium
 
-### Expected outcomes 
+### Idea 1:
 
-| ID | Task                         | Description                                                                 | Difficulty | Skill required | Mentor    |   |
-|----|------------------------------|-----------------------------------------------------------------------------|------------|----------------|-----------|---|
-| 1  | x| x|||  |   |
-| 2  | x|x||||   |
-| 3  | x| x ||||   |
-| 4  | x | x|      x      |         x       | x    |  x |
+#### Proposed lists of topics that could be included:
 
+**Mentor**: [name](https://github.com/)
+
+**Current status**: 
+
+**Technology**: python, ...
+
+
+### Idea 2:
+
+#### Proposed lists of topics that could be included:
+
+**Mentor**: [name](https://github.com/)
+
+**Current status**: 
+
+**Technology**: python, ...
+
+
+### Idea 3:
+
+#### Proposed lists of topics that could be included:
+
+**Mentor**: [name](https://github.com/)
+
+**Current status**: 
+
+**Technology**: python, ...
+
+--- 
 
 ## Communication
 The following Mmethods will be used for all projects:
