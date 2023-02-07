@@ -33,6 +33,8 @@ Slips is a behavioral intrusion prevention system that uses machine learning to 
 ###  Difficulty
 Medium
 
+## Idea 1: Improvement of Slips web interface
+
 ### Proposed lists of topics that could be included:
 - Better display of timewindow numbers,  start time, and end time
 - Show a list of Blocked Profiles in one place
@@ -42,34 +44,70 @@ Medium
 - Show the user agent of each profile 
 - Show the MAC of each profile
 - Live (Asynchronous) updating of the web view. (meaning that without refreshing the page, new info should be displayed)
-- Show slips logo somewhere
+- Show Slips logo somewhere
+- Show Progress bar 
+- Show list of loaded modules and disabled modules
+- Show current model status (are we in training or testing mode?)
+- Show the current gateway’s IP and MAC, and mark the gateway profile as ‘Gateway’
+- Have a whitelist tab to show what IPs/domains/orgs are currently whitelisted
+- Manage the configuration of slips from the web
+
+**Mentor**: [Sebastian Garcia]()
+
+**Technology**: javascript, jquery, flask, python
 
 
+**Current status**: working web interface
+
+<img src="https://raw.githubusercontent.com/stratosphereips/Google-Summer-of-Code-2023/main/images/web_interface.png"  width="900" height="300">
+
+## Idea 2: Better Installation
+
+### Proposed lists of topics that could be included:
+
+- An easy way to install slips, Any of the following:
+  - using apt
+  - snap
+  - dpkg
+  
+- Bonus: brew installation of slips (if the student has a macOS)  
+
+**Mentor**: [Alya Gomaa]()
+
+**Current status**: Slips is working in docker, and can be installed locally using install.sh and conda/pip. 
+
+**Technology**: python, package management, brew
 
 
-## Idea 2: Better Intallation
 
 ## Idea 3: Improving Performance
+
+
+### Proposed lists of topics that could be included:
+
+
+- CPU Profiling; Using python profilers: for example profile and cProfile modules or others
+- Memory Profiling; Using memray, Memory Profiler module or others that may do
+- Provide statistics and graphs about which parts or modules of slips need optimizations
+- Provide optimization ideas; what can be done differently? Why and How?
+
+
+**Mentor**: [Alya Gomaa]()
+
+**Current status**: basic previous work in this area
+
+**Technology**: python, profiling tools
+
+
+
+
+---
 
 # Project Attacker IP Threat Intelligence Framework (AIP)
 
 ## Idea 1: 
 
 
-
-
-### Expected outcomes 
-
-| ID | Task                         | Description                                                                 | Difficulty | Skill required | Mentor    |   |
-|----|------------------------------|-----------------------------------------------------------------------------|------------|----------------|-----------|---|
-| 1  | Web Interface                | * Showing all the info we have on each profile. * Fix bugs in info shown    |            |                | Sebastian |   |
-| 2  | Performance                  |                                                                             |            |                | Alya      |   |
-| 3  | Installation                 | Installing slips and its dependencies using  a package manager: apt or snap |            |                | Alya      |   |
-| 4  | Integration of FEEL in Slips |                                                                             |            |                | Mariko    |   |
-
----
-
-# Project 2
 
 
 ***Note*** We are targetting students/experieced developers?
