@@ -1,10 +1,10 @@
 # Google Summer of Code 2023
 Repository with data and documents for Google Summer of Code 2023 proposal for the Stratosphere Laboratory
 
-# About the Stratosphere Laboratory
+## About the Stratosphere Laboratory
 Our group conducts research at the intersection of machine learning, cybersecurity and helping others. We are part of the Artificial Intelligence Center, Faculty of Electrical Engineering, Czech Technical University in Prague.
 
-# Google Summer of Code
+## Google Summer of Code
 The [Google Summer of Code](https://summerofcode.withgoogle.com/) is a global, online program focused on bringing new contributors into open source software development. GSoC Contributors work with an open source organization on a 12+ week programming project under the guidance of mentors.
 
 
