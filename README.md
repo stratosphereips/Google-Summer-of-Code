@@ -11,7 +11,7 @@ Our group conducts research at the intersection of machine learning, cybersecuri
 
 # Links to Projects Proposal Ideas
 *  [Stratosphere Linux IPS (Slips)](https://github.com/stratosphereips/Google-Summer-of-Code-2023#stratosphere-linux-ips)
-*  [Attacker IP Threat Intelligence Framework (AIP)](https://github.com/stratosphereips/Google-Summer-of-Code-2023#project-attacker-ip-threat-intelligence-framework-aip)
+*  [Attacker IP Threat Intelligence Framework (AIP)](https://github.com/stratosphereips/Google-Summer-of-Code-2023#attacker-ip-threat-intelligence-framework-aip)
 *  [Project 3]()
 *  [Project 3]()
 
