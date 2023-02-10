@@ -138,6 +138,11 @@ We expect you to get motivated by the projects and to get involved in how to mak
 
 To get approved in your work during the summer you will be required to present a report and Google will ask us an evaluation of your work. This will happen twice during the summer.
 
+## Application template (for students)
+
+For students applying to one of Stratosphere projects, you can fill the below form and send it to us 
+
+https://github.com/stratosphereips/Google-Summer-of-Code-2023/blob/main/Application_template.md
 
 ## Communication
 
