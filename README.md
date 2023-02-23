@@ -1,3 +1,9 @@
+<p align="center">
+<img src="https://user-images.githubusercontent.com/2458867/220867986-ce57cfbc-8fbb-4890-9ca6-22e9ca04b5e2.png" alt="Logo" width="200" class="center">
+</p>
+
+
+
 # Stratosphere Google Summer of Code 2023
 This is the repository with all the information you need to know about the Google Summer of Code for Stratosphere Laboratory 2023
 
