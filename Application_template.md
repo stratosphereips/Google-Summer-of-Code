@@ -6,6 +6,8 @@ Your Name:
 Slack Username:  
 Email Address:  
 Primary Spoken Language:  
+Project you're interested in: (Slips or AIP)
+
 
 #### 1. Please describe your preferred coding languages and experience.
 
