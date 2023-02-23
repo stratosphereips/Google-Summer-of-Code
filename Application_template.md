@@ -27,7 +27,7 @@ Primary Spoken Language:
 
 #### 9. Have you participated in any previous Summer of Code project? If so please describe your project and your experience.
 
-#### 10. Have you applied for (or intend to apply for) any other GSoC 2022 projects? If so, which ones?
+#### 10. Have you applied for (or intend to apply for) any other GSoC 2023: projects? If so, which ones?
 
 #### 11. If you have a URL for your resume/CV, please list it here.
 
