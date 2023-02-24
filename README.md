@@ -154,7 +154,7 @@ To get approved in your work during the summer you will be required to present a
 
 ## Application template (for students)
 
-For students applying to one of Stratosphere projects, you can fill the below form and send it to us 
+For students applying to one of Stratosphere projects, you can fill the below form and send it to us to stratosphere@aic.fel.cvut.cz
 
 https://github.com/stratosphereips/Google-Summer-of-Code-2023/blob/main/Application_template.md
 
