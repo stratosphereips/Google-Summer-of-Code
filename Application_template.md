@@ -1,5 +1,7 @@
 # GSoC Application Template
 
+Please send this application by email to stratosphere@aic.fel.cvut.cz
+
 ## Your Background
 
 Your Name:  
