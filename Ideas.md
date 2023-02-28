@@ -25,13 +25,14 @@
 	- Slips.conf
 	- Local TI files
 
-## Better Installation
+## Better Installation and usage
 
 - An easy way to install slips, Any of the following:
   - using apt
   - snap
   - dpkg
-  
+- Now slips runs from it's main directory, after installing it using apt the goal would be to use slips from any directory, so this would require changing slips code to use relative directories, adding slips to PATH etc.
+- Support auto starting slips daemon on startup   
 - Bonus: brew installation of slips (if the student has a macOS)  
 
 ## Improve Performance
@@ -42,6 +43,3 @@
 - Provide optimization ideas; what can be done differently? Why and How?
 
 
---- 
-
-# AIP
