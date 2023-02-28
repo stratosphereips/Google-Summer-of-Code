@@ -15,7 +15,7 @@ Github Profile:
 
 #### 1. Please describe your preferred coding languages and experience.
 
-#### 2. Please describe your background on the following topics: Security, Networks, MAchine Learning
+#### 2. Please describe your background on the following topics: Security, Networks, Machine Learning
 
 #### 3. Please describe any previous open source development experience.
 
