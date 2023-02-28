@@ -5,11 +5,17 @@ Please send this application by email to stratosphere@aic.fel.cvut.cz
 ## Your Background
 
 Your Name:  
-Slack Username:  
+
+Discord Username:  
+
 Email Address:  
+
 Primary Spoken Language:  
+
 Project you're interested in: (Slips or AIP)
+
 Linkedin Profile:
+
 Github Profile: 
 
 
