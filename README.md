@@ -108,12 +108,11 @@ Slips wants to do many detections in your network, but that requires CPU, memory
 <br>
 
 
-# Project Attacker IP Threat Intelligence Framework (AIP)
-
+# Project Attacker IP Prioritization Framework (AIP)
 ## Description of AIP
-AIP is a framework to design, create and evaluate the performance of Threat Intelligence lists. The current most used protection mechanism in our security community are threat intelligence feeds, but there is no clear understanding of which ones are best, why they are best, which ones do not work and how to evaluate them. More importantly, there was no framework to create new models that output TI feeds. AIP allows anyone to create their own lists and compare their performance with public lists. Stratosphere has its own honeypots and publishes daily the AIP lists for the community.
+AIP is a framework to design, create and evaluate the performance of Threat Intelligence lists. The current most used protection mechanism in our security community are threat intelligence feeds, but there is no clear understanding of which ones are best, why they are best, which ones do not work and how to evaluate them. More importantly, there was no framework to create new models that output TI feeds. AIP allows anyone to create their own lists and compare their performance with public lists. Stratosphere Laboratory has its own honeypots and we use the AIP framework to create new blocklists for the community every day.
 
-## Project Link: https://github.com/stratosphereips/AIP-Blacklist-Algorithm
+## Project Link: https://github.com/stratosphereips/AIP
 
 ## Expected size
 175 (4hs per day for 12 weeks) 
