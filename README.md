@@ -103,6 +103,41 @@ Slips wants to do many detections in your network, but that requires CPU, memory
 **Technology**: Python, profiling tools
 
 
+
+
+## 🧑🏽‍💻 Slips idea 4: Machine Learning detections
+
+#### Proposed lists of topics that could be included:
+
+- Anomaly detection methods:
+
+Detect anomalies in the amount of traffic send and received
+
+Detect anomalies in the HTTP User Agents
+
+Detect anomalies in the IP addresses each host connects TO and receives FROM
+
+Detect anomalies in the countries if the destination IPs an IP connects to
+
+Adapt the retraining module of AD for users to adapt modesl to their traffic
+
+- Supervised detection methods:
+
+Improve the detection of C&C channels using the stratoletters by retraining in new dataset
+
+Detect DGA by using sequence models or transformers
+
+
+**Detailed tasks**: https://github.com/stratosphereips/Google-Summer-of-Code-2023/blob/main/Ideas.md#machine-learning-detection
+
+**Mentor**:   [Sebastian Garcia](https://github.com/eldraco)
+
+**Current status**: Beta. Some things are working, but they need tuning, retraining etc.
+
+**Technology**: Python, tensorflow, keras, sklearn
+
+---
+
 ---
 <br>
 <br>
