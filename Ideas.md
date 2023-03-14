@@ -42,4 +42,14 @@
 - Provide statistics and graphs about which parts or modules of slips need optimizations
 - Provide optimization ideas; what can be done differently? Why and How?
 
+## Machine Learning detection
 
+- Anomaly detection methods
+	- Detect anomalies in the amount of traffic send and received
+	- Detect anomalies in the HTTP User Agents
+	- Detect anomalies in the IP addresses each host connects TO and receives FROM
+	- Detect anomalies in the countries if the destination IPs an IP connects to 
+	- Adapt the retraining module of AD for users to adapt modesl to their traffic
+- Supervised detection methods
+	- Improve the detection of C&C channels using the stratoletters by retraining in new dataset
+	- Detect DGA by using sequence models or transformers
