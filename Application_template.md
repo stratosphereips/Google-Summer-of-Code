@@ -14,6 +14,8 @@ Primary Spoken Language:
 
 Project you're interested in: (Slips or AIP)
 
+Idea you're interested in:
+
 Linkedin Profile:
 
 Github Profile: 
@@ -48,3 +50,5 @@ Github Profile:
 #### 13. Project Plan
 
 Please describe your proposed project in detail, including deliverables and expected timeline with milestones (this is the long answer, so spend most time here!).
+
+You can use the google timeline included here: https://developers.google.com/open-source/gsoc/timeline to help you with the timeline and milestones
