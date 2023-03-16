@@ -246,16 +246,25 @@ For students applying to one of Stratosphere projects, you can fill out the belo
 
 https://github.com/stratosphereips/Google-Summer-of-Code-2023/blob/main/Application_template.md
 
-For Slips, send your application to the following emails in Cc
+
+**For Slips** send your application to the following emails in Cc:
+
 Alya Gomaa alyaggomaa@gmail.com
+
 Sebastian Garcia sebastian.garcia@agents.fel.cvut.cz
+
 Veronica Valeros veronica.valeros@aic.fel.cvut.cz 
+
 stratosphere@aic.fel.cvut.cz
 
-For AIP, send your application to the following emails in Cc
+**For AIP** send your application to the following emails in Cc:
+
 Joaquin bogadjoa@fel.cvut.cz
+
 Sebastian Garcia sebastian.garcia@agents.fel.cvut.cz
+
 Veronica Valeros veronica.valeros@aic.fel.cvut.cz 
+
 stratosphere@aic.fel.cvut.cz
 
 ## Communication
