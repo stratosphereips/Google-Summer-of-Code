@@ -41,12 +41,12 @@ This idea consist in taking the current web page of Slips and implement a set of
 - Adapting the web interface to show all the information Slips has on each profile (connections, attacks, detections, etc.)
 - Manage the complete configuration of slips from the web.
 - Add graphs for continuous visualization of traffic
-- Add explanations for alerts, evidences and flows.
+- Add explanations for alerts, evidence, and flows.
 
-### Expected size of work
+### Expected hours of work
 175 (4hs per day for 12 weeks) 
 
-### Expected length of project 
+### Expected length of the project 
 10-22 weeks
 
 ### Difficulty
@@ -74,6 +74,16 @@ Slips has a hard time being installed in many systems given its dependencies to 
 - Make packages for some Linux systems, Debian, Ubuntu, Fedora
 - Make a brew package of slips
 
+
+### Expected hours of work
+175 (4hs per day for 12 weeks) 
+
+### Expected length of the project 
+10-22 weeks
+
+### Difficulty
+Medium
+
 **Details of the tasks**: https://github.com/stratosphereips/Google-Summer-of-Code-2023/blob/main/Ideas.md#better-installation
 
 **Mentor**: [Alya Gomaa](https://github.com/AlyaGomaa)
@@ -94,6 +104,16 @@ Slips wants to do many detections in your network, but that requires CPU, memory
 - Provide statistics and graphs about which parts or modules of slips need optimizations
 - Provide optimization ideas
 
+
+### Expected hours of work
+175 (4hs per day for 12 weeks) 
+
+### Expected length of the project 
+10-22 weeks
+
+### Difficulty
+Medium
+
 **Detailed tasks**: https://github.com/stratosphereips/Google-Summer-of-Code-2023/blob/main/Ideas.md#improve-performance
 
 **Mentor**: [Alya Gomaa](https://github.com/AlyaGomaa)
@@ -101,7 +121,6 @@ Slips wants to do many detections in your network, but that requires CPU, memory
 **Current status**: basic previous work in this area
 
 **Technology**: Python, profiling tools
-
 
 
 
@@ -127,6 +146,15 @@ Improve the detection of C&C channels using the stratoletters by retraining in n
 
 Detect DGA by using sequence models or transformers
 
+
+### Expected hours of work
+175 (4hs per day for 12 weeks) 
+
+### Expected length of the project 
+10-22 weeks
+
+### Difficulty
+Hard
 
 **Detailed tasks**: https://github.com/stratosphereips/Google-Summer-of-Code-2023/blob/main/Ideas.md#machine-learning-detection
 
