@@ -242,13 +242,25 @@ To get approved in your work during the summer you will be required to present a
 
 ## Application template (for students)
 
-For students applying to one of Stratosphere projects, you can fill the below form and send it to us to stratosphere@aic.fel.cvut.cz
+For students applying to one of Stratosphere projects, you can fill out the below form and send it to us by email 
 
 https://github.com/stratosphereips/Google-Summer-of-Code-2023/blob/main/Application_template.md
 
+For Slips, send your application to the following emails in Cc
+Alya Gomaa alyaggomaa@gmail.com
+Sebastian Garcia sebastian.garcia@agents.fel.cvut.cz
+Veronica Valeros veronica.valeros@aic.fel.cvut.cz 
+stratosphere@aic.fel.cvut.cz
+
+For AIP, send your application to the following emails in Cc
+Joaquin bogadjoa@fel.cvut.cz
+Sebastian Garcia sebastian.garcia@agents.fel.cvut.cz
+Veronica Valeros veronica.valeros@aic.fel.cvut.cz 
+stratosphere@aic.fel.cvut.cz
+
 ## Communication
 
-It is very important that you keep communicated with us. Use our [Discord](https://discord.gg/zu5HwMFy5C) (slips channel) and [GitHub](https://github.com/stratosphereips/StratosphereLinuxIPS/) channels to contact us and to ask questions.
+It is very important that you keep communicating with us. Use our [Discord](https://discord.gg/zu5HwMFy5C) (slips channel) and [GitHub](https://github.com/stratosphereips/StratosphereLinuxIPS/) channels to contact us and to ask questions.
 
 We will be in permanent contact, but we will have from 1 to 3 meetings per week to guide you on what to do.
 
