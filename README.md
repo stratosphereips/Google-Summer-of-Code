@@ -223,19 +223,7 @@ Submit your proposal drafts to the #aip channel in discord. We suggest a Google 
 Medium
 
 
-## 💻 AIP Idea 2: Continuous Deployment
-
-This idea is to have the AIP framework being continually integrated to the network and honeypots and to produce results and information about the different TI feeds downloaded. It is not about how to show the information, but how to produce it.
-
-**Mentor**: [Joaquin Bogado](https://github.com/jwackito/)
-
-**Current status**: Beta Testing
-
-**Technology**: Python
-
---- 
-
-## What we expect from you
+### What we expect from you
 We expect you to get motivated by the projects and to get involved in how to make them better! You will have to work around 4hs per day (small projects) to 6hs per day (large project), during 12 weeks (22 weeks max if we agree). We can agree in your time off, and holidays and how to better work with us. 
 
 To get approved in your work during the summer you will be required to present a report and Google will ask us an evaluation of your work. This will happen twice during the summer.
