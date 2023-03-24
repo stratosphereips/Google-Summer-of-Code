@@ -147,6 +147,18 @@ Improve the detection of C&C channels using the stratoletters by retraining in n
 Detect DGA by using sequence models or transformers
 
 
+#### Important
+More importantly your prosposal should tell us not only how to run some ML library with an algorithm but to:
+- evaluate and process the datasets
+- know if you can design the required features
+- evaluate the features
+- create a correct training/evaluation/testing setup
+- see the explanation of why it fails (XAI)
+- design a concept drift solution (retraining, drift detection, etc) 
+- understand that you will have many different training data and testing data
+- develop a way to not use the algorithm if it performs badly
+
+
 ### Expected hours of work
 175 (4hs per day for 12 weeks) 
 
