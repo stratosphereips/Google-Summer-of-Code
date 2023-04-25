@@ -49,7 +49,7 @@
 	- Detect anomalies in the HTTP User Agents
 	- Detect anomalies in the IP addresses each host connects TO and receives FROM
 	- Detect anomalies in the countries if the destination IPs an IP connects to 
-	- Adapt the retraining module of AD for users to adapt modesl to their traffic
+	- Adapt the retraining module of AD for users to adapt models to their traffic
 - Supervised detection methods
 	- Improve the detection of C&C channels using the stratoletters by retraining in new dataset
 	- Detect DGA by using sequence models or transformers
