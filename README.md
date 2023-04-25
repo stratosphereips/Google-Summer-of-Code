@@ -207,7 +207,7 @@ The number of different blocklists depends on the AIP Tool configuration. If new
 
 The application must include a REST/API endpoint to query if an IP is in a list.
 
-**Extra pointsi**: bulk query of IPs. 
+**Extra points**: bulk query of IPs. 
 
 **Extra points**: Include a Dark/Light theme switch.
 
