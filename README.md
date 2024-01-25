@@ -9,6 +9,19 @@ This is the repository with all the information you need to know about the Googl
 ## About the Stratosphere Laboratory
 Stratosphere conducts research at the intersection of machine learning, cybersecurity and helping others by developing free software tools. We are part of the AI Center, Faculty of Electrical Engineering, Czech Technical University in Prague.
 
+## Google Summer of Code
+
+The [Google Summer of Code](https://summerofcode.withgoogle.com/) is a global, online program focused on bringing new contributors into open-source software development. 
+Accepted GSoC Contributors work with an open-source organization on a 12+ week programming project under the guidance of mentors. For small projects, students are expected to work 4 hours per day. For large projects, students are expected to work 6 hours per day.
+Throughout the program, students undergo two evaluations based on accomplished work milestones, timely delivery, and their interaction with the mentors.
+
+## Stratosphere Projects Open for Contribution
+
+This year, we are accepting proposals for two projects:
+- Slips: a free software behavioral Python intrusion prevention system (IDS/IPS) that uses machine learning to detect malicious behaviors in the network traffic. [[List of Ideas](list_of_ideas.md)] [[GitHub](https://github.com/stratosphereips/StratosphereLinuxIPS)]
+- AI VPN: A Free-Software AI-Powered Network Forensics Tool [[List of Ideas](list_of_ideas.md)] [[GitHub](https://github.com/stratosphereips/AIVPN)]
+
+
 ## Contributor Guidelines
 
 Read our [Contributor Guide](contributor_guide.md) to learn about:
