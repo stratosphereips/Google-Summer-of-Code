@@ -1,9 +1,5 @@
-<p align="center">
-<img src="https://user-images.githubusercontent.com/2458867/220867986-ce57cfbc-8fbb-4890-9ca6-22e9ca04b5e2.png" alt="Logo" width="200" class="center">
-</p>
+![stratospheregsoc](https://github.com/stratosphereips/Google-Summer-of-Code/assets/2458879/0ae88582-de13-47b3-a15c-0384c5d55c55)
 
-
-# Stratosphere Google Summer of Code 2024
 This is the repository with all the information you need to know about the Google Summer of Code for Stratosphere Laboratory 2024
 
 ## About the Stratosphere Laboratory
@@ -20,6 +16,10 @@ Throughout the program, students undergo two evaluations based on accomplished w
 This year, we are accepting proposals for two projects:
 - Slips: a free software behavioral Python intrusion prevention system (IDS/IPS) that uses machine learning to detect malicious behaviors in the network traffic. [[List of Ideas](list_of_ideas.md)] [[GitHub](https://github.com/stratosphereips/StratosphereLinuxIPS)]
 - AI VPN: A Free-Software AI-Powered Network Forensics Tool [[List of Ideas](list_of_ideas.md)] [[GitHub](https://github.com/stratosphereips/AIVPN)]
+
+## Meet Our Mentors
+
+<img width="890" alt="image" src="https://github.com/stratosphereips/Google-Summer-of-Code/assets/2458879/689d998e-9591-4f72-bf19-c24ed3919202">
 
 
 ## Contributor Guidelines
