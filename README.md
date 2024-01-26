@@ -19,7 +19,7 @@ This year, we are accepting proposals for two projects:
 
 ## Meet Our Mentors
 
-<img width="890" alt="image" src="https://github.com/stratosphereips/Google-Summer-of-Code/assets/2458879/689d998e-9591-4f72-bf19-c24ed3919202">
+![image](https://github.com/stratosphereips/Google-Summer-of-Code/assets/2458879/a6f18d60-1d52-40b0-bd8f-2dc465b70716)
 
 
 ## Contributor Guidelines
