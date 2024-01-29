@@ -60,7 +60,7 @@ We are accepting proposals for two projects as part of the Google Summer of Code
 
 **Expected outcomes**: We expect i) the implementation in cloud servers of the DNS and P2P infrastructure for sharing TI and ii) the implementation of Fides and Iris inside Slips. 
 
-## Slips #4  Codebase Enhancement through Unit Testing
+## Slips #4 Codebase Enhancement through Unit Testing
 ![Static Badge](https://img.shields.io/badge/Mentor-Alya_Gomaa-blue?labelColor=blue&color=white)
 ![Static Badge](https://img.shields.io/badge/Mentor-Sebastian_Garcia-blue?labelColor=blue&color=white)
 ![Static Badge](https://img.shields.io/badge/Size-90_hours-blue?labelColor=brown&color=white)
