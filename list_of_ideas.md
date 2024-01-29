@@ -45,7 +45,7 @@ We are accepting proposals for two projects as part of the Google Summer of Code
 
 **Expected outcomes**: We expect i) to be able to install Slips using a single command (e.g., apt install slips or snap install slips) and ii) a plan for automatically updating future versions of Slips.
 
-## Slips #3 Slips Global P2P Threat Intelligence	3
+## Slips #3 Slips Global P2P Threat Intelligence
 ![Static Badge](https://img.shields.io/badge/Mentor-Alya_Gomaa-blue?labelColor=blue&color=white)
 ![Static Badge](https://img.shields.io/badge/Mentor-Sebastian_Garcia-blue?labelColor=blue&color=white)
 ![Static Badge](https://img.shields.io/badge/Size-90_hours-blue?labelColor=brown&color=white)
@@ -103,7 +103,7 @@ We are accepting proposals for two projects as part of the Google Summer of Code
 
 **Expected outcomes**: We expect i) a new report produced merged at least in the development branch, ii) a blog post explaining the new report and what information users should expect to be there after an analysis.
 
-## AI VPN #4 System Audit and Internal Report	4
+## AI VPN #4 System Audit and Internal Report
 ![Static Badge](https://img.shields.io/badge/Mentor-Veronica_Valeros-blue?labelColor=blue&color=white)
 ![Static Badge](https://img.shields.io/badge/Mentor-Maria_Rigaki-blue?labelColor=blue&color=white)
 ![Static Badge](https://img.shields.io/badge/Size-90_hours-blue?labelColor=brown&color=white)
