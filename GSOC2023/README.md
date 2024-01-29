@@ -52,7 +52,7 @@ This idea consist in taking the current web page of Slips and implement a set of
 ### Difficulty
 Medium
  
-**Detail of the tasks description**: https://github.com/stratosphereips/Google-Summer-of-Code-2023/blob/main/Ideas.md#improvement-of-slips-web-interface
+**Detail of the tasks description**: [https://github.com/stratosphereips/Google-Summer-of-Code/edit/main/GSOC2023/Ideas.md#improvement-of-slips-web-interface](https://github.com/stratosphereips/Google-Summer-of-Code/edit/main/GSOC2023/Ideas.md#improvement-of-slips-web-interface)
 
 **Mentor**: [Sebastian Garcia](https://github.com/eldraco)
 
@@ -84,7 +84,7 @@ Slips has a hard time being installed in many systems given its dependencies to 
 ### Difficulty
 Medium
 
-**Details of the tasks**: https://github.com/stratosphereips/Google-Summer-of-Code-2023/blob/main/Ideas.md#better-installation
+**Details of the tasks**: [https://github.com/stratosphereips/Google-Summer-of-Code-2023/blob/main/Ideas.md#better-installation](https://github.com/stratosphereips/Google-Summer-of-Code/edit/main/GSOC2023/Ideas.md#better-installation-and-usage)
 
 **Mentor**: [Alya Gomaa](https://github.com/AlyaGomaa)
 
@@ -114,7 +114,7 @@ Slips wants to do many detections in your network, but that requires CPU, memory
 ### Difficulty
 Medium
 
-**Detailed tasks**: https://github.com/stratosphereips/Google-Summer-of-Code-2023/blob/main/Ideas.md#improve-performance
+**Detailed tasks**: [https://github.com/stratosphereips/Google-Summer-of-Code/blob/main/GSOC2023/Ideas.md#improve-performance](https://github.com/stratosphereips/Google-Summer-of-Code/blob/main/GSOC2023/Ideas.md#improve-performance)
 
 **Mentor**: [Alya Gomaa](https://github.com/AlyaGomaa)
 
@@ -148,7 +148,7 @@ Detect DGA by using sequence models or transformers
 
 
 #### Important
-More importantly your prosposal should tell us not only how to run some ML library with an algorithm but to:
+More importantly, your prosposal should tell us not only how to run some ML library with an algorithm but to:
 - evaluate and process the datasets
 - know if you can design the required features
 - evaluate the features
