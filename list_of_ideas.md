@@ -11,6 +11,7 @@ We are accepting proposals for two projects as part of the Google Summer of Code
 - [Slips #1 ML Detection](#slips-1-ml-detection)
 - [Slips #2 Better Installation](#slips-2-better-installation)
 - [Slips #3 Slips Global P2P Threat Intelligence](#slips-3-slips-global-p2p-threat-intelligence)
+- [Slips #4  Codebase Enhancement through Unit Testing](#slips-4-codebase-enhancement-through-unit-testing)
 - [AI VPN #1 CLI Management Console with Textual](#ai-vpn-1-cli-management-console-with-textual)
 - [AI VPN #2 Codebase Enhancement through Unit Testing](#ai-vpn-2-codebase-enhancement-through-unit-testing)
 - [AI VPN #3 Improve the AI VPN report of results](#ai-vpn-3-improve-the-ai-vpn-report-of-results)
@@ -59,6 +60,19 @@ We are accepting proposals for two projects as part of the Google Summer of Code
 
 **Expected outcomes**: We expect i) the implementation in cloud servers of the DNS and P2P infrastructure for sharing TI and ii) the implementation of Fides and Iris inside Slips. 
 
+## Slips #4  Codebase Enhancement through Unit Testing
+![Static Badge](https://img.shields.io/badge/Mentor-Alya_Gomaa-blue?labelColor=blue&color=white)
+![Static Badge](https://img.shields.io/badge/Mentor-Sebastian_Garcia-blue?labelColor=blue&color=white)
+![Static Badge](https://img.shields.io/badge/Size-90_hours-blue?labelColor=brown&color=white)
+![Static Badge](https://img.shields.io/badge/Difficulty-Medium-blue?labelColor=purple&color=white)
+
+**Gist**: Identify core functionality and add unit testing to make development more robust
+
+**Skills**: Python, Unit Testing, CI/CD
+
+**Description**: Identify core functionality and add unit testing to make the codebase more robust and improve existing unit tests.
+
+**Expected outcomes**: We expect i) a plan in the form of issues with priorities to increase the coverage of unit tests based on priorities, ii) implementation of unit tests in the code, and iii) successful integration of the tests through the GitHub CI/CD we already have.
 
 
 ## AI VPN #1 CLI Management Console with Textual
