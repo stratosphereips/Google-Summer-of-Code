@@ -52,7 +52,7 @@ This idea consist in taking the current web page of Slips and implement a set of
 ### Difficulty
 Medium
  
-**Detail of the tasks description**: [https://github.com/stratosphereips/Google-Summer-of-Code/edit/main/GSOC2023/Ideas.md#improvement-of-slips-web-interface](https://github.com/stratosphereips/Google-Summer-of-Code/edit/main/GSOC2023/Ideas.md#improvement-of-slips-web-interface)
+**Detail of the tasks description**: [https://github.com/stratosphereips/Google-Summer-of-Code/blob/main/GSOC2023/Ideas.md#improvement-of-slips-web-interface](https://github.com/stratosphereips/Google-Summer-of-Code/blob/main/GSOC2023/Ideas.md#improvement-of-slips-web-interface)
 
 **Mentor**: [Sebastian Garcia](https://github.com/eldraco)
 
@@ -84,7 +84,7 @@ Slips has a hard time being installed in many systems given its dependencies to 
 ### Difficulty
 Medium
 
-**Details of the tasks**: [https://github.com/stratosphereips/Google-Summer-of-Code-2023/blob/main/Ideas.md#better-installation](https://github.com/stratosphereips/Google-Summer-of-Code/edit/main/GSOC2023/Ideas.md#better-installation-and-usage)
+**Details of the tasks**: [https://github.com/stratosphereips/Google-Summer-of-Code/blob/main/GSOC2023/Ideas.md#better-installation-and-usage](https://github.com/stratosphereips/Google-Summer-of-Code/blob/main/GSOC2023/Ideas.md#better-installation-and-usage)
 
 **Mentor**: [Alya Gomaa](https://github.com/AlyaGomaa)
 
