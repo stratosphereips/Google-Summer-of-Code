@@ -8,7 +8,7 @@ We are accepting proposals for two projects as part of the Google Summer of Code
 
 ## Table of Contents
 
-- [Slips #1: ML Detection](#slips--1--ml-detection)
+- [Slips #1: ML Detection](#slips-1-ml-detection)
 - [Slips #2 Better Installation](#slips--2-better-installation)
 - [Slips #3 Slips Global P2P Threat Intelligence](#slips--3-slips-global-p2p-threat-intelligence)
 - [AI VPN #1 CLI Management Console with Textual](#ai-vpn--1-cli-management-console-with-textual)
