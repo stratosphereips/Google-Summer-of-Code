@@ -43,7 +43,7 @@ We want to be transparent in our evaluation criteria, so we summarised the key p
 - Successful applicants are required to include a list of their contributed Pull Requests (PRs) related to the selected projects (Slips or AI VPN) in GitHub as part of their application submission.
 
 ## Application Template
-For students applying to one of Stratosphere's projects, we have prepared a form that you can fill out to send us an early application and get our feedback on your idea and how you propose to achieve it. Are you ready to submit your idea? [LINK WILL BE UPDATED SOON]().
+You must fill and send us by email your application **before** you send it to Google. We have prepared a template application form that you must fill. From this document we can send you feedback on how to improve. Here the document: [LINK](https://docs.google.com/document/d/1Of6MLopWvHBU4Snl04bddEPA1FAUEcfGKbxCySBU9Rw/edit).
 
 ## Communication
 Effective communication is critical for working with our team, particularly in the context of remote collaboration. We are looking for individuals who are proactive in sharing ideas, updates on their progress, and any challenges they encounter. 
