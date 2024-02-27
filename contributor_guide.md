@@ -45,6 +45,8 @@ We want to be transparent in our evaluation criteria, so we summarised the key p
 ## Application Template
 You must fill and send us by email your application **before** you send it to Google. We have prepared a template application form that you must fill. From this document we can send you feedback on how to improve. Here the document: [LINK](https://docs.google.com/document/d/1Of6MLopWvHBU4Snl04bddEPA1FAUEcfGKbxCySBU9Rw/edit).
 
+The sooner you send us the application, the more chances to be selected, since we need to pick one student per idea proposal.
+
 ## Communication
 Effective communication is critical for working with our team, particularly in the context of remote collaboration. We are looking for individuals who are proactive in sharing ideas, updates on their progress, and any challenges they encounter. 
 
