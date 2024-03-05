@@ -43,7 +43,8 @@ We want to be transparent in our evaluation criteria, so we summarised the key p
 - Successful applicants are required to include a list of their contributed Pull Requests (PRs) related to the selected projects (Slips or AI VPN) in GitHub as part of their application submission.
 
 ## Application Template
-You must fill and send us by email your application **before** you send it to Google. We have prepared a template application form that you must fill. From this document we can send you feedback on how to improve. Here the document: [LINK](https://docs.google.com/document/d/1Of6MLopWvHBU4Snl04bddEPA1FAUEcfGKbxCySBU9Rw/edit).
+You must fill the application form **before** you send it to Google so we can send you feedback on how to improve. Here is the [application link.](https://docs.google.com/forms/d/e/1FAIpQLSc93l4_Cdp0WEILKVZNdMNGw4QLBGuLBMKokrjOuwoUlafTYQ/viewform)
+
 
 The sooner you send us the application, the more chances to be selected, since we need to pick one student per idea proposal.
 
