@@ -22,6 +22,7 @@ We are accepting proposals for two projects as part of the Google Summer of Code
 ![Static Badge](https://img.shields.io/badge/Mentor-Alya_Gomaa-blue?labelColor=blue&color=white)
 ![Static Badge](https://img.shields.io/badge/Size-90_hours-blue?labelColor=brown&color=white)
 ![Static Badge](https://img.shields.io/badge/Difficulty-Difficult-blue?labelColor=purple&color=white)
+![Static Badge](https://img.shields.io/badge/Length-12_Weeks-blue?labelColor=yellow&color=white) 
 
 **Gist**: Improve the ML algorithms in Slips by adding multi-modal anomaly detection. 
 
@@ -37,6 +38,8 @@ We are accepting proposals for two projects as part of the Google Summer of Code
 ![Static Badge](https://img.shields.io/badge/Mentor-Sebastian_Garcia-blue?labelColor=blue&color=white)
 ![Static Badge](https://img.shields.io/badge/Size-90_hours-blue?labelColor=brown&color=white)
 ![Static Badge](https://img.shields.io/badge/Difficulty-Difficult-blue?labelColor=purple&color=white)
+![Static Badge](https://img.shields.io/badge/Length-12_Weeks-blue?labelColor=yellow&color=white) 
+
 
 **Gist**: Easier installation of Slips and support for updates for future versions
 
@@ -51,6 +54,7 @@ We are accepting proposals for two projects as part of the Google Summer of Code
 ![Static Badge](https://img.shields.io/badge/Mentor-Sebastian_Garcia-blue?labelColor=blue&color=white)
 ![Static Badge](https://img.shields.io/badge/Size-90_hours-blue?labelColor=brown&color=white)
 ![Static Badge](https://img.shields.io/badge/Difficulty-Medium-blue?labelColor=purple&color=white)
+![Static Badge](https://img.shields.io/badge/Length-12_Weeks-blue?labelColor=yellow&color=white) 
 
 **Gist**: Implementation of the global P2P threat intelligence sharing system.
 
@@ -65,6 +69,8 @@ We are accepting proposals for two projects as part of the Google Summer of Code
 ![Static Badge](https://img.shields.io/badge/Mentor-Sebastian_Garcia-blue?labelColor=blue&color=white)
 ![Static Badge](https://img.shields.io/badge/Size-90_hours-blue?labelColor=brown&color=white)
 ![Static Badge](https://img.shields.io/badge/Difficulty-Medium-blue?labelColor=purple&color=white)
+![Static Badge](https://img.shields.io/badge/Length-12_Weeks-blue?labelColor=yellow&color=white) 
+
 
 **Gist**: Identify core functionality and add unit testing to make development more robust
 
@@ -80,6 +86,8 @@ We are accepting proposals for two projects as part of the Google Summer of Code
 ![Static Badge](https://img.shields.io/badge/Mentor-Maria_Rigaki-blue?labelColor=blue&color=white)
 ![Static Badge](https://img.shields.io/badge/Size-90_hours-blue?labelColor=brown&color=white)
 ![Static Badge](https://img.shields.io/badge/Difficulty-Easy-blue?labelColor=purple&color=white)
+![Static Badge](https://img.shields.io/badge/Length-8_Weeks-blue?labelColor=yellow&color=white) 
+
 
 **Gist**: Design and implement a management CLI using Textual
 
@@ -94,6 +102,7 @@ We are accepting proposals for two projects as part of the Google Summer of Code
 ![Static Badge](https://img.shields.io/badge/Mentor-Maria_Rigaki-blue?labelColor=blue&color=white)
 ![Static Badge](https://img.shields.io/badge/Size-90_hours-blue?labelColor=brown&color=white)
 ![Static Badge](https://img.shields.io/badge/Difficulty-Easy-blue?labelColor=purple&color=white)
+![Static Badge](https://img.shields.io/badge/Length-8_Weeks-blue?labelColor=yellow&color=white) 
 
 **Gist**: Identify core functionality and add unit testing to make the codebase more robust
 
@@ -108,6 +117,7 @@ We are accepting proposals for two projects as part of the Google Summer of Code
 ![Static Badge](https://img.shields.io/badge/Mentor-Sebastian_Garcia-blue?labelColor=blue&color=white)
 ![Static Badge](https://img.shields.io/badge/Size-90_hours-blue?labelColor=brown&color=white)
 ![Static Badge](https://img.shields.io/badge/Difficulty-Medium-blue?labelColor=purple&color=white)
+![Static Badge](https://img.shields.io/badge/Length-8_Weeks-blue?labelColor=yellow&color=white) 
 
 **Gist**: Find a better way to communicate the results to the user
 
@@ -122,6 +132,7 @@ We are accepting proposals for two projects as part of the Google Summer of Code
 ![Static Badge](https://img.shields.io/badge/Mentor-Maria_Rigaki-blue?labelColor=blue&color=white)
 ![Static Badge](https://img.shields.io/badge/Size-90_hours-blue?labelColor=brown&color=white)
 ![Static Badge](https://img.shields.io/badge/Difficulty-Easy-blue?labelColor=purple&color=white)
+![Static Badge](https://img.shields.io/badge/Length-8_Weeks-blue?labelColor=yellow&color=white) 
 
 **Gist**: Design and implement an AI VPN audit and generate a report
 
