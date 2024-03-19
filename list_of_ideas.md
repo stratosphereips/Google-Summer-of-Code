@@ -20,7 +20,7 @@ We are accepting proposals for two projects as part of the Google Summer of Code
 ## Slips #1: ML Detection
 ![Static Badge](https://img.shields.io/badge/Mentor-Sebastian_Garcia-blue?labelColor=blue&color=white)
 ![Static Badge](https://img.shields.io/badge/Mentor-Alya_Gomaa-blue?labelColor=blue&color=white)
-![Static Badge](https://img.shields.io/badge/Size-90_hours-blue?labelColor=brown&color=white)
+![Static Badge](https://img.shields.io/badge/Size-350_hours-blue?labelColor=brown&color=white)
 ![Static Badge](https://img.shields.io/badge/Difficulty-Difficult-blue?labelColor=purple&color=white)
 ![Static Badge](https://img.shields.io/badge/Length-12_Weeks-blue?labelColor=yellow&color=white) 
 
@@ -36,7 +36,7 @@ We are accepting proposals for two projects as part of the Google Summer of Code
 ## Slips #2 Better Installation
 ![Static Badge](https://img.shields.io/badge/Mentor-Alya_Gomaa-blue?labelColor=blue&color=white)
 ![Static Badge](https://img.shields.io/badge/Mentor-Sebastian_Garcia-blue?labelColor=blue&color=white)
-![Static Badge](https://img.shields.io/badge/Size-90_hours-blue?labelColor=brown&color=white)
+![Static Badge](https://img.shields.io/badge/Size-350_hours-blue?labelColor=brown&color=white)
 ![Static Badge](https://img.shields.io/badge/Difficulty-Difficult-blue?labelColor=purple&color=white)
 ![Static Badge](https://img.shields.io/badge/Length-12_Weeks-blue?labelColor=yellow&color=white) 
 
@@ -52,7 +52,7 @@ We are accepting proposals for two projects as part of the Google Summer of Code
 ## Slips #3 Slips Global P2P Threat Intelligence
 ![Static Badge](https://img.shields.io/badge/Mentor-Alya_Gomaa-blue?labelColor=blue&color=white)
 ![Static Badge](https://img.shields.io/badge/Mentor-Sebastian_Garcia-blue?labelColor=blue&color=white)
-![Static Badge](https://img.shields.io/badge/Size-90_hours-blue?labelColor=brown&color=white)
+![Static Badge](https://img.shields.io/badge/Size-175_hours-blue?labelColor=brown&color=white)
 ![Static Badge](https://img.shields.io/badge/Difficulty-Medium-blue?labelColor=purple&color=white)
 ![Static Badge](https://img.shields.io/badge/Length-12_Weeks-blue?labelColor=yellow&color=white) 
 
@@ -69,7 +69,7 @@ We are accepting proposals for two projects as part of the Google Summer of Code
 ![Static Badge](https://img.shields.io/badge/Mentor-Sebastian_Garcia-blue?labelColor=blue&color=white)
 ![Static Badge](https://img.shields.io/badge/Size-90_hours-blue?labelColor=brown&color=white)
 ![Static Badge](https://img.shields.io/badge/Difficulty-Medium-blue?labelColor=purple&color=white)
-![Static Badge](https://img.shields.io/badge/Length-12_Weeks-blue?labelColor=yellow&color=white) 
+![Static Badge](https://img.shields.io/badge/Length-8_Weeks-blue?labelColor=yellow&color=white) 
 
 
 **Gist**: Identify core functionality and add unit testing to make development more robust
